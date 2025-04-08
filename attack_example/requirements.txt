@@ -1,0 +1,5 @@
+gmpy2
+numpy
+owiener
+pycryptodome
+sympy
